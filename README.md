@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nihar Pawade
-- 👀 I’m interested in SDE1 role
-- 🌱 I’m currently learning DSA/Spring Boot/Node js/Multithreading
+- 👀 I’m interested in SDE2/SDE1 role
+- 🌱 I’m currently learning DSA/Django/Spring Boot/Node js/Multithreading
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - niharpawade@outlook.com
 
